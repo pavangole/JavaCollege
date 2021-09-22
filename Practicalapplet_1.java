@@ -16,6 +16,7 @@ import javax.swing.*;
 
 public class Practicalapplet_1 extends Applet {
   public void init() {
+    
     ImageIcon icon = new ImageIcon("icon.png");
     System.out.println("Icon height is " + icon.getIconHeight());
     // Create the Label
