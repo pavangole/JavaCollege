@@ -1,3 +1,14 @@
+/**
+ * Author :- Pavan Gole
+ * IDCODE :- 19CM023
+ * Date   :- 19 Sept 2021
+ *
+ */
+                                        /*Practical No :-4 */
+    /* Write a Program in java to create a JTable.
+*/
+
+
 import java.applet.Applet;
 
 import javax.swing.*;
@@ -22,9 +33,11 @@ public class Practicalapplet_4 extends Applet {
         JTable table = new JTable(data, colHeads);
         // Add the table to a scroll pane.
         JScrollPane jsp = new JScrollPane(table);
-
+        jsp.setSize(400,150);
         // Add the scroll pane to the content pane.
         add(jsp);
+	setLayout(null);
+	setVisible(true);
 
     }
 

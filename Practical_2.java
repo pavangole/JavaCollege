@@ -1,6 +1,17 @@
 
+/**
+ * Author :- Pavan Gole
+ * IDCODE :- 19CM023
+ * Date   :- 19 Sept 2021
+ *
+ */
+                                    /*Practical No :-2 */
+/*  Write a Program using Swing to display a ScrollPane and JComboBox in an
+    Applet with the item:-English, Marathi, Hindi, and Sanskrit. 
+*/
+
 import javax.swing.*;
-import java.awt.*;
+
 
 
 public class Practical_2 {
@@ -18,7 +29,7 @@ public class Practical_2 {
         frame.add(jb);
         frame.add(jc);
         frame.setVisible(true);
-        frame.setLayout(new FlowLayout());
+        frame.setLayout(new FlowLayout()); 
 	    frame.setSize(500,500);
 
     }

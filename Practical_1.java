@@ -9,7 +9,6 @@
 /* Write a Program to demonstrate the use of JLabel and ImageIcon, JTextField
     and JPasswordField. 
 */
-import java.awt.*;
 import javax.swing.*;
 
 class Practical_1 {
@@ -25,7 +24,6 @@ class Practical_1 {
         // Create the Label
         JLabel label = new JLabel("", icon, JLabel.CENTER);
         // Set the color of the Label
-        label.setForeground(Color.RED);
         // Set the size of frame
         label.setBounds(20, 20, 200, 200);
 

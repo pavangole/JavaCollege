@@ -1,4 +1,15 @@
-import javax.swing.JFrame;
+
+/**
+ * Author :- Pavan Gole
+ * IDCODE :- 19CM023
+ * Date   :- 19 Sept 2021
+ *
+ */
+                                        /*Practical No :-4 */
+    /* Write a Program in java to create a JTable.
+*/
+
+
 import javax.swing.*;
 
 public class Practical_4 {

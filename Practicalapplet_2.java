@@ -5,9 +5,9 @@
  * Date   :- 19 Sept 2021
  *
  */
-/*Practical No :-1 */
-/* Write a Program to demonstrate the use of JLabel and ImageIcon, JTextField
-    and JPasswordField. 
+                                    /*Practical No :-2 */
+/*  Write a Program using Swing to display a ScrollPane and JComboBox in an
+    Applet with the item:-English, Marathi, Hindi, and Sanskrit. 
 */
 
 import javax.swing.*;

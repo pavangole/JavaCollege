@@ -1,3 +1,16 @@
+
+
+
+/**
+ * Author :- Pavan Gole
+ * IDCODE :- 19CM023
+ * Date   :- 19 Sept 2021
+ *
+ */
+                                /*Practical No :-3 */
+/* Write a Program in java to create a JTree
+*/
+
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
 import java.applet.*;
